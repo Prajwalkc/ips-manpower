@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Prajwalkc/ips-manpower/static/css/main.ffe2f97a.css",
+    "main.js": "/Prajwalkc/ips-manpower/static/js/main.ddadb544.js",
+    "static/media/video.mp4": "/Prajwalkc/ips-manpower/static/media/video.338a182dc50e8e9cce48.mp4",
+    "static/media/img1.png": "/Prajwalkc/ips-manpower/static/media/img1.3f55b7b7762f8b209d54.png",
+    "static/media/card1.png": "/Prajwalkc/ips-manpower/static/media/card1.3eb61fbfa8dc4fdf4520.png",
+    "index.html": "/Prajwalkc/ips-manpower/index.html",
+    "main.ffe2f97a.css.map": "/Prajwalkc/ips-manpower/static/css/main.ffe2f97a.css.map",
+    "main.ddadb544.js.map": "/Prajwalkc/ips-manpower/static/js/main.ddadb544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe2f97a.css",
+    "static/js/main.ddadb544.js"
+  ]
+}
