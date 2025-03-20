@@ -1,0 +1,76 @@
+.navopened {
+  background-color: #010606 !important;
+}
+
+.navopened .logo {
+  color: #fafafa !important;
+}
+
+.navopened ul li a {
+  color: #fafafa !important;
+}
+
+.navopened .burger {
+  background-color: #010606 !important;
+}
+
+.navbar {
+  transition: background-color 0.4s;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 0.5rem;
+  background-color: transparent;
+  z-index: 2;
+  backdrop-filter: blur(2px);
+}
+
+.navbar .logo {
+  transition: all 0.2s;
+  align-items: center;
+  align-content: center;
+  color: rgb(243, 243, 243);
+  letter-spacing: 2px;
+  font-weight: 400;
+  margin: 0;
+  font-size: 28px;
+  padding-top: 10px;
+}
+
+.navbar ul {
+  transition: all 0.2s;
+  margin-left: 17rem;
+  list-style: none;
+}
+
+.navbar ul li {
+  margin: 0 1rem;
+  display: inline-block;
+}
+
+.navbar ul li a {
+  transition: all 0.2s;
+  font-size: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(243, 243, 243);
+  font-weight: 500;
+}
+
+.button {
+  cursor: pointer;
+  transition: transform 0.2s linear;
+  position: fixed;
+  transform: translateX(300%);
+  top: 20px;
+  right: 15px;
+  z-index: 1;
+}
+
+.burger {
+  transition: all 0.2s;
+  margin-bottom: 0.45rem;
+  width: 25px;
+  height: 3px;
+  background-color: white;
+}
