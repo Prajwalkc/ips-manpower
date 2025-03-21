@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ips-manpower/static/css/main.ffe2f97a.css",
-    "main.js": "/ips-manpower/static/js/main.ce1cb853.js",
-    "static/media/video.mp4": "/ips-manpower/static/media/video.338a182dc50e8e9cce48.mp4",
-    "static/media/img1.png": "/ips-manpower/static/media/img1.3f55b7b7762f8b209d54.png",
-    "static/media/card1.png": "/ips-manpower/static/media/card1.3eb61fbfa8dc4fdf4520.png",
-    "index.html": "/ips-manpower/index.html",
-    "main.ffe2f97a.css.map": "/ips-manpower/static/css/main.ffe2f97a.css.map",
-    "main.ce1cb853.js.map": "/ips-manpower/static/js/main.ce1cb853.js.map"
+    "main.css": "/static/css/main.ffe2f97a.css",
+    "main.js": "/static/js/main.a5dcb122.js",
+    "static/media/video.mp4": "/static/media/video.338a182dc50e8e9cce48.mp4",
+    "static/media/img1.png": "/static/media/img1.3f55b7b7762f8b209d54.png",
+    "static/media/card1.png": "/static/media/card1.3eb61fbfa8dc4fdf4520.png",
+    "index.html": "/index.html",
+    "main.ffe2f97a.css.map": "/static/css/main.ffe2f97a.css.map",
+    "main.a5dcb122.js.map": "/static/js/main.a5dcb122.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe2f97a.css",
-    "static/js/main.ce1cb853.js"
+    "static/js/main.a5dcb122.js"
   ]
 }
